@@ -2,6 +2,8 @@ window.onload = function () {
   document.getElementById('loader').style.display = 'none';
 }
 
+console.log('Данные в localStorage:', localStorage.getItem("products"));
+
 // Показать продукты на странице корзины пользователя из localStorage
 function showCartProducts() {
   let cartProducts = JSON.parse(localStorage.getItem("products")) || []; //Добавление всех продуктов из localStorage в массив
@@ -99,6 +101,8 @@ function showCartProducts() {
           </div>
        </div>`;
   }
+
+	console.log(totalQuantity)
 
   // Отображение общего количества товаров на значке корзины
   document.querySelector(".total-quantity").innerHTML = `<span>${totalQuantity}</span>`;
