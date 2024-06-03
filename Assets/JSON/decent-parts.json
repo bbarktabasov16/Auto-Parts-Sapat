@@ -1,0 +1,619 @@
+[
+  {
+    "autoPart": "Шины и колеса",
+    "description": "Разнообразные аксессуары для шин, гайки и колес",
+    "image_url": "",
+    "id": 1,
+    "autoSubPart": [
+      {
+        "c_id": 1,
+        "name": "Аксессуары для колес",
+        "description": "Разнообразие различных аксессуаров для колес",
+        "url": "../assets/images/json-url/1/Wheel-Cover-1.jpg",
+        "category": "parts",
+        "products": [
+          {
+            "p_id": 70,
+            "name": "Крышка колеса ABS - 15 дюймов - WK1-1SL-15",
+            "description": "Колпачок для колеса выполнен в совершенстве и выделяет ваш автомобиль среди других.",
+            "price": 4000,
+            "stock amount": 20,
+            "url1": "../assets/images/json-url/1/Wheel-Cover-1.jpg",
+            "url2": "../assets/images/json-url/1/Wheel-Cover-2.jpg"
+          },
+          {
+            "p_id": 71,
+            "name": "Turtle Wax Wet",
+            "description": "Активная пенная формула заключает в себе грязь и копоть, прежде чем удалить их из шины.",
+            "price": 1500,
+            "stock amount": 25,
+            "url1": "../assets/images/json-url/1/Turtle-Wax-Wet&Black-Foam-1.jpg",
+            "url2": "../assets/images/json-url/1/Turtle-Wax-Wet&Black-Foam-2.jpg"
+          },
+          {
+            "p_id": 72,
+            "name": "TURTLE WAX WET'N BLACK ULTRA WET TIRE SHINE",
+            "description": "Защищает от вредного воздействия ультрафиолетовых лучей",
+            "price": 1000,
+            "stock amount": 22,
+            "url1": "../assets/images/json-url/1/Turtle-Wax-Ultra-Wet-Tire-1.jpg",
+            "url2": "../assets/images/json-url/1/Turtle-Wax-Ultra-Wet-Tire-2.jpg"
+          },
+          {
+            "p_id": 73,
+            "name": "Бронзовый колпак колеса",
+            "description": "Бронза превосходна, почти сатиновая/матовая, с очень приятным тонким блеском при солнечном свете.",
+            "price": 4000,
+            "stock amount": 30,
+            "url1": "../assets/images/json-url/1/Brounze-Wheel-Cup-1.jpg",
+            "url2": "../assets/images/json-url/1/Brounze-Wheel-Cup-2.jpg"
+          },
+          {
+            "p_id": 74,
+            "name": "Хромированный колпачок колеса",
+            "description": "Этот колпак для колес имеет хромированную отделку и предназначен для автомобилей с 16-дюймовыми шинами (r-16).",
+            "price": 2000,
+            "stock amount": 10,
+            "url1": "../assets/images/json-url/1/Chrome-Wheel-Cap-1.jpg",
+            "url2": "../assets/images/json-url/1/Chrome-Wheel-Cap-2.jpg"
+          },
+          {
+            "p_id": 75,
+            "name": "Колпачок ступицы центрального колеса",
+            "description": "Колесные ступицы также могут быть полезны для обеспечения некоторой защиты ваших колес от стихии и дорожного мусора.",
+            "price": 2000,
+            "stock amount": 40,
+            "url1": "../assets/images/json-url/1/Center-Wheel-Cap-1.jpg",
+            "url2": "../assets/images/json-url/1/Center-Wheel-Cap-2.jpg"
+          }
+        ]
+      },
+      {
+        "c_id": 2,
+        "name": "Гайки",
+        "description": "Разнообразные гайки для транспортных средств",
+        "url": "../assets/images/json-url/1/d1-spec-lugnuts-1.jpg",
+        "category": "parts",
+        "products": [
+          {
+            "p_id": 76,
+            "name": "D1 Spec Lug Nuts / Wheel Nuts",
+            "description": "d1 spec короткие колесные гайки m12x1 25 алюминий 36 мм 35432 0d3",
+            "price": 1500,
+            "stock amount": 35,
+            "url1": "../assets/images/json-url/1/d1-spec-lugnuts-1.jpg",
+            "url2": "../assets/images/json-url/1/d1-spec-lugnuts-2.jpg"
+          },
+          {
+            "p_id": 77,
+            "name": "Гайки Rays / Колесные гайки",
+            "description": "Rays Гайки для наконечников / Гайки для колес / Винты для колес 1.5m",
+            "price": 3200,
+            "stock amount": 37,
+            "url1": "../assets/images/json-url/1/rays-lug-nuts-1.jpg",
+            "url2": "../assets/images/json-url/1/rays-lug-nuts-2.jpg"
+          },
+          {
+            "p_id": 78,
+            "name": "Гайки BLOX Spikes / Колесные гайки",
+            "description": "BLOX Шипы Гайки для наконечников / Колесные гайки / Колесные винты синий 1.25 мм",
+            "price": 1800,
+            "stock amount": 20,
+            "url1": "../assets/images/json-url/1/spikes-lug-nuts-wheelnuts-1.jpg",
+            "url2": "../assets/images/json-url/1/spikes-lug-nuts-wheelnuts-2.jpg"
+          },
+          {
+            "p_id": 79,
+            "name": "Автомобиль грузовик алюминиевый гоночный",
+            "description": "Автомобиль грузовик алюминиевый гоночный цветной стали M12X1.5 титан шип колеса наконечник гайки",
+            "price": 1200,
+            "stock amount": 40,
+            "url1": "../assets/images/json-url/1/car-aluminium-nuts-1.jpeg",
+            "url2": "../assets/images/json-url/1/car-aluminium-nuts-2.jpeg"
+          }
+        ]
+      },
+      {
+        "c_id": 3,
+        "name": "Шины",
+        "description": "Различные виды шин",
+        "url": "../assets/images/json-url/1/Bridgeston-tyre-1.jpg",
+        "category": "parts",
+        "products": [
+          {
+            "p_id": 65,
+            "name": "Шина Bridgeston 14570-R12",
+            "description": "Эти шины обеспечивают захватывающую езду для водителей, которые хотят получить максимальную отдачу от своего спортивного или спортивно-моторного автомобиля.",
+            "price": 3000,
+            "stock amount": 30,
+            "url1": "../assets/images/json-url/1/Bridgestone-tyre-1.jpg",
+            "url2": "../assets/images/json-url/1/bridgestone-tyre-2.jpg"
+          },
+          {
+            "p_id": 66,
+            "name": "Шины Continental 205-55-R16",
+            "description": "Высококачественные шины Continental для вашего автомобиля.",
+            "price": 4000,
+            "stock amount": 25,
+            "url1": "../assets/images/json-url/1/Continental-tyre-1.jpg",
+            "url2": "../assets/images/json-url/1/Continental-tyre-2.jpg"
+          },
+          {
+            "p_id": 67,
+            "name": "Шины Dunlop 31-10-50 R15",
+            "description": "Лучшие шины для вашего автомобиля",
+            "price": 4000,
+            "stock amount": 15,
+            "url1": "../assets/images/json-url/1/Dunlop-Tyre-1.jpg",
+            "url2": "../assets/images/json-url/1/Dunlop-Tyre-1.jpg"
+          },
+          {
+            "p_id": 68,
+            "name": "BF Goodrich",
+            "description": "Шины BF Goodrich обеспечивают невероятное сцепление с камнями, грязью и грязями, а также отлично подходят для скользких поверхностей.",
+            "price": 5000,
+            "stock amount": 10,
+            "url1": "../assets/images/json-url/1/BF-Goodrich-Tyre-1.jpg",
+            "url2": "../assets/images/json-url/1/BF-Goodrich-Tyre-2.jpg"
+          },
+          {
+            "p_id": 69,
+            "name": "YOKOHAMA GEOLANDAR M/T G003",
+            "description": "Шина обеспечивает превосходное сцепление в любую погоду.",
+            "price": 2800,
+            "stock amount": 13,
+            "url1": "../assets/images/json-url/1/yakohama-tyre-1.jpeg",
+            "url2": "../assets/images/json-url/1/yakohama-tyre-2.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "autoPart": "Экстерьер",
+    "description": "Автозапчасти аксессуары использовать внешне включает в себя козырек окна, грузовик аксессуары и дверные ручки, замки и аксессуары",
+    "image_url": "",
+    "id": 2,
+    "autoSubPart": [
+      {
+        "c_id": 1,
+        "name": "Оконные козырьки",
+        "description": "Разнообразные солнцезащитные козырьки",
+        "url": "../assets/images/json-url/2/honda-vezel-1.jpg",
+        "category": "Ex",
+        "products": [
+          {
+            "p_id": 16,
+            "name": "Honda Vezel 2013-2020 Premium Airpress",
+            "description": "Отличная видимость, подчеркните красоту вашего автомобиля. Для Honda Vezel 2013-2020",
+            "price": 3500,
+            "stock_amount": 40,
+            "url1": "../assets/images/json-url/2/honda-vezel-1.jpg",
+            "url2": "../assets/images/json-url/2/honda-vezel-2.jpg"
+          },
+          {
+            "p_id": 17,
+            "name": "Toyota Hilux Vigo Champ Sun Visor",
+            "description": "Отличная обзорность. Солнцезащитный козырек Toyota Hilux Vigo Champ Модель 2005-2016 гг.",
+            "price": 5800,
+            "stock_amount": 50,
+            "url1": "../assets/images/json-url/2/Toyota-Hilux-1.jpg",
+            "url2": "../assets/images/json-url/2/Toyota-Hilux-2.jpg"
+          },
+          {
+            "p_id": 18,
+            "name": "Daihatsu Cuore 2000-2012 Солнцезащитный козырек",
+            "description": "Премиум. ​​Подчеркните красоту вашего автомобиля. Для Дайхатсу Куоре 2000-2012",
+            "price": 4500,
+            "stock_amount": 30,
+            "url1": "../assets/images/json-url/2/Daihatsu-Cuore-1.jpg",
+            "url2": "../assets/images/json-url/2/Daihatsu-Cuore-2.jpg"
+          }
+        ]
+      },
+      {
+        "c_id": 2,
+        "name": "Дверные ручки, замки и аксессуары",
+        "description": "Разнообразие аксессуаров включает дверную ручку и замок.",
+        "url": "../assets/images/json-url/2/suzuki-door-handle-1.webp",
+        "category": "Ex",
+        "products": [
+          {
+            "p_id": 19,
+            "name": "Подлинная дверная ручка",
+            "description": "Оригинальная дверная ручка Suzuki Mehran RLH. Для Сузуки Мехран 1988-2012 гг.",
+            "price": 800,
+            "stock_amount": 30,
+            "url1": "../assets/images/json-url/2/suzuki-door-handle-1.jpg",
+            "url2": "../assets/images/json-url/2/suzuki-door-handle-2.jpg"
+          },
+          {
+            "p_id": 20,
+            "name": "Задняя дверь левая сторона",
+            "description": "Оригинальная задняя дверь Toyota, левая сторона для Toyota Corolla XLi 2015-2017 гг.",
+            "price": 70000,
+            "stock_amount": 20,
+            "url1": "../assets/images/json-url/2/rear-door-left-side-1.jpg",
+            "url2": "../assets/images/json-url/2/rear-door-left-side-2.jpg"
+          },
+          {
+            "p_id": 21,
+            "name": "Задняя дверь, правая сторона",
+            "description": "Оригинальная правая задняя дверь Toyota для Toyota Corolla XLi 2015-2017",
+            "price": 7000,
+            "stock_amount": 20,
+            "url1": "../assets/images/json-url/2/rear-door-right-side-1.jpg",
+            "url2": "../assets/images/json-url/2/rear-door-right-side-2.jpg"
+          },
+          {
+            "p_id": 22,
+            "name": "Дверная ручка",
+            "description": "Дверные ручки на Toyota Surf/Forerunner 1992 г.в.",
+            "price": 6800,
+            "stock_amount": 40,
+            "url1": "../assets/images/json-url/2/door-handle-for-toyota-1.jpg",
+            "url2": "../assets/images/json-url/2/door-handle-for-toyota-2.jpg"
+          },
+          {
+            "p_id": 23,
+            "name": "Крышка ручки Хром",
+            "description": "Накладка на ручку Suzuki Alto Chrome — модель 2018-2020 гг.",
+            "price": 1200,
+            "stock_amount": 45,
+            "url1": "../assets/images/json-url/2/suzuki-alto-handle-cover-1.jpg",
+            "url2": "../assets/images/json-url/2/suzuki-alto-handle-cover-2.jpg"
+          },
+          {
+            "p_id": 24,
+            "name": "Хромированный дверной молдинг",
+            "description": "Хромированный дверной молдинг Toyoto Alto - модель 2018-2020 гг.",
+            "price": 4000,
+            "stock_amount": 30,
+            "url1": "../assets/images/json-url/2/chrome-door-moulding-1.jpg",
+            "url2": "../assets/images/json-url/2/chrome-door-moulding-2.jpg"
+          },
+          {
+            "p_id": 25,
+            "name": "Защитник дверных ограждений",
+            "description": "Универсальная защита дверей, длинная, 2 шт.",
+            "price": 400,
+            "stock_amount": 40,
+            "url1": "../assets/images/json-url/2/door-guards-protector-1.jpg",
+            "url2": "../assets/images/json-url/2/door-guards-protector-2.jpg"
+          },
+          {
+            "p_id": 26,
+            "name": "Хромированные накладки на ручки",
+            "description": "Хромированные накладки на ручки Honda Civic — модель 2006–2012 гг.",
+            "price": 1200,
+            "stock_amount": 35,
+            "url1": "../assets/images/json-url/2/honda-civic-chrome-handle-covers-1.jpg",
+            "url2": "../assets/images/json-url/2/honda-civic-chrome-handle-covers-2.jpg"
+          }
+        ]
+      },
+      {
+        "c_id": 3,
+        "name": "Аксессуары для грузовиков",
+        "description": "Аксессуары для грузовых автомобилей и тяжелой техники",
+        "url": "../assets/images/json-url/2/truck-cab-top-cover-1.jpg",
+        "category": "Ex",
+        "products": [
+          {
+            "p_id": 27,
+            "name": "Верхняя крышка кабины грузовика",
+            "description": "Прямая посадка, водонепроницаемая. Верхняя крышка кабины грузовика",
+            "price": 10000,
+            "stock_amount": 10,
+            "url1": "../assets/images/json-url/2/truck-cab-top-cover-1.jpg",
+            "url2": "../assets/images/json-url/2/truck-cab-top-cover-2.jpg"
+          },
+          {
+            "p_id": 28,
+            "name": "Стойка для грузовика",
+            "description": "Багажник для грузовика, порошковая покраска. Материал сталь",
+            "price": 21000,
+            "stock_amount": 15,
+            "url1": "../assets/images/json-url/2/truck-bed-rack-1.jpg",
+            "url2": "../assets/images/json-url/2/truck-bed-rack-2.jpg"
+          },
+          {
+            "p_id": 29,
+            "name": "Комплект для крепления к кузову грузовика",
+            "description": "Включает (8) болтов, (8) гаек и (8) шайб.",
+            "price": 8000,
+            "stock_amount": 20,
+            "url1": "../assets/images/json-url/2/truck-bed-rack-mount-kit-1.jpg",
+            "url2": "../assets/images/json-url/2/truck-bed-rack-mount-kit-2.jpg"
+          },
+          {
+            "p_id": 30,
+            "name": "Колесные замки для нестандартных колес внедорожника послепродажного обслуживания",
+            "description": "Набор Veritek Black Acorn Bulge Tuner 1,75-дюймовые колесные замки для нестандартных колес внедорожника послепродажного обслуживания",
+            "price": 12000,
+            "stock_amount": 18,
+            "url1": "../assets/images/json-url/2/wheel-locks-1.jpg",
+            "url2": "../assets/images/json-url/2/wheel-locks-2.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "autoPart": "Интерьер",
+    "description": "Аксессуары для автозапчастей используются внутри компании, например, мобильная электроника, звуковые сигналы и компоненты, переключатели, реле, компоненты проводки.",
+    "image_url": "",
+    "id": 3,
+    "autoSubPart": [
+      {
+        "c_id": 1,
+        "name": "Мобильная электроника",
+        "description": "",
+        "url": "",
+        "category": "IN",
+        "products": [
+          {
+            "p_id": 1,
+            "name": "Автомобильный аудиоусилитель",
+            "description": "Автомобильный аудиоусилитель — прямая установка, продается индивидуально",
+            "price": 4000,
+            "stock_amount": 20,
+            "url1": "../assets/images/json-url/3/car-audio-amplifier-1.jpg",
+            "url2": "../assets/images/json-url/3/car-audio-amplifier-2.jpg"
+          },
+          {
+            "p_id": 2,
+            "name": "Автомобильный обогреватель",
+            "description": "Нагревательный элемент датчика воды в топливном фильтре Без датчика уровня воды в топливном фильтре.",
+            "price": 2000,
+            "stock_amount": 40,
+            "url1": "../assets/images/json-url/3/heater-1.jpg",
+            "url2": "../assets/images/json-url/3/heater-2.jpg"
+          },
+          {
+            "p_id": 3,
+            "name": "Чехол для дистанционного управления без ключа",
+            "description": "Чехол с дистанционным управлением без ключа, позволяющий открывать и запирать автомобиль без использования ручных автомобильных ключей.",
+            "price": 1800,
+            "stock_amount": 80,
+            "url1": "../assets/images/json-url/3/keyless-car-case-1.jpg",
+            "url2": "../assets/images/json-url/3/keyless-car-case-2.jpg"
+          }
+        ]
+      },
+      {
+        "c_id": 2,
+        "name": "Гайки и компоненты",
+        "description": "",
+        "url": "",
+        "category": "IN",
+        "products": [
+          {
+            "p_id": 4,
+            "name": "Комплект гаек",
+            "description": "Установочный комплект компрессора звукового сигнала",
+            "price": 1900,
+            "stock_amount": 50,
+            "url1": "../assets/images/json-url/3/horns-kit-1.jpg",
+            "url2": "../assets/images/json-url/3/horns-kit-1.jpg"
+          },
+          {
+            "p_id": 5,
+            "name": "Обложка",
+            "description": "Комплект для внутренней реставрации",
+            "price": 2600,
+            "stock_amount": 10,
+            "url1": "../assets/images/json-url/3/coverlay-1.jpg",
+            "url2": "../assets/images/json-url/3/coverlay-2.jpg"
+          }
+        ]
+      },
+      {
+        "c_id": 3,
+        "name": "Переключатели, реле, компоненты проводки",
+        "description": "",
+        "url": "",
+        "category": "IN",
+        "products": [
+          {
+            "p_id": 7,
+            "name": "Зеркальный переключатель",
+            "description": "Переключатель зеркала — прямая установка, продается индивидуально.",
+            "price": 3700,
+            "stock_amount": 35,
+            "url1": "../assets/images/json-url/3/mirror-switch-1.jpg",
+            "url2": "../assets/images/json-url/3/mirror-switch-2.jpg"
+          },
+          {
+            "p_id": 8,
+            "name": "Выключатель дверного замка",
+            "description": "Переключатель дверного замка — прямая установка, продается индивидуально",
+            "price": 2000,
+            "stock_amount": 10,
+            "url1": "../assets/images/json-url/3/door-switch-1.jpg",
+            "url2": "../assets/images/json-url/3/door-switch-2.jpg"
+          },
+          {
+            "p_id": 9,
+            "name": "Реле",
+            "description": "Реле — многофункциональное реле, прямая установка, продается индивидуально.",
+            "price": 2200,
+            "stock_amount": 12,
+            "url1": "../assets/images/json-url/3/relay-1.jpg",
+            "url2": "../assets/images/json-url/3/relay-1.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "autoPart": "Автомобильные запчасти",
+    "description": "Разнообразие автозапчастей включает в себя задние фары, зеркала и щетки стеклоочистителей.",
+    "image_url": "",
+    "id": 4,
+    "autoSubPart": [
+      {
+        "c_id": 1,
+        "name": "Задние и головные фонари",
+        "description": "Задние и фары для разных моделей",
+        "url": "../assets/images/json-url/4/toyoto-corolla-backlight-1.jpg",
+        "category": "parts",
+        "products": [
+          {
+            "p_id": 46,
+            "name": "Задний фонарь Toyota Corolla TYC",
+            "description": "Стандартная импортная и OEM-установка. Можно установить на: Toyota Corolla 2014-2020 гг.",
+            "price": 4500,
+            "stock_amount": 30,
+            "url1": "../assets/images/json-url/4/toyoto-corolla-backlight-1.jpg",
+            "url2": "../assets/images/json-url/4/toyoto-corolla-backlight-2.jpg"
+          },
+          {
+            "p_id": 47,
+            "name": "Головной фонарь Depo для Santro Club RH",
+            "description": "Импортированный. Можно установить на:Hyundai Santro 2003-2014 гг.",
+            "price": 6000,
+            "stock_amount": 45,
+            "url1": "../assets/images/json-url/4/hyndai-headlight-1.jpg",
+            "url2": "../assets/images/json-url/4/hyndai-headlight-2.jpg"
+          },
+          {
+            "p_id": 48,
+            "name": "Фары Toyota Corolla в стиле NIKE",
+            "description": "Импортированный. Можно установить на: Toyota Corolla модель 2014-2017 гг.",
+            "price": 1800,
+            "stock_amount": 25,
+            "url1": "../assets/images/json-url/4/toyota-corolla-nike-headlights-1.jpg",
+            "url2": "../assets/images/json-url/4/toyota-corolla-nike-headlights-2.jpg"
+          },
+          {
+            "p_id": 49,
+            "name": "Фары Хонда Цивик",
+            "description": "Импортированный. Фары Honda Civic в стиле Nike — модель 2012–2016 гг.",
+            "price": 48000,
+            "stock_amount": 20,
+            "url1": "../assets/images/json-url/4/honda-civic-headlights-1.jpg",
+            "url2": "../assets/images/json-url/4/honda-civic-headlights-2.jpg"
+          },
+          {
+            "p_id": 50,
+            "name": "Honda Civic Задние фонари 4D HD597",
+            "description": "Импортированный. Задний фонарь Honda Civic 4D HD597 - модель 2012-2016 гг.",
+            "price": 24000,
+            "stock_amount": 15,
+            "url1": "../assets/images/json-url/4/honda-civic-back-lights-1.jpg",
+            "url2": "../assets/images/json-url/4/honda-civic-back-lights-2.jpg"
+          }
+        ]
+      },
+      {
+        "c_id": 2,
+        "name": "Боковые зеркала",
+        "description": "Variety of Side Mirrors of different auto models",
+        "url": "../assets/images/json-url/4/toyota-taiwan-sidemirror-1.jpg",
+        "category": "parts",
+        "products": [
+          {
+            "p_id": 51,
+            "name": "Toyota Corolla Тайвань Боковое зеркало",
+            "description": "Производство Тайвань. Toyota Corolla Тайвань Боковое зеркало Xli, Gli, 2008-2014 гг.",
+            "price": 4800,
+            "stock_amount": 20,
+            "url1": "../assets/images/json-url/4/toyota-taiwan-sidemirror-1.jpg",
+            "url2": "../assets/images/json-url/4/toyota-taiwan-sidemirror-2.jpg"
+          },
+          {
+            "p_id": 52,
+            "name": "Боковое зеркало Toyota Vitz с подсветкой",
+            "description": "Импортированный. Боковое зеркало Toyota Vitz с правым освещением 2006-2012 гг.",
+            "price": 5800,
+            "stock_amount": 25,
+            "url1": "../assets/images/json-url/4/toyota-vitz-mirror-light-1.jpg",
+            "url2": "../assets/images/json-url/4/toyota-vitz-mirror-light-2.jpg"
+          },
+          {
+            "p_id": 53,
+            "name": "Боковое зеркало из углеродного волокна с индикатором",
+            "description": "Боковое зеркало из углеродного волокна с индикатором и крышкой зеркала",
+            "price": 3000,
+            "stock_amount": 32,
+            "url1": "../assets/images/json-url/4/carbon-fiber-side-mirror-indicator-1.jpg",
+            "url2": "../assets/images/json-url/4/carbon-fiber-side-mirror-indicator-2.jpg"
+          },
+          {
+            "p_id": 54,
+            "name": "Крышка бокового зеркала Honda Civic из углеродного волокна",
+            "description": "Накладка бокового зеркала из углеродного волокна Honda Civic — модель 2016–2017 гг.",
+            "price": 3900,
+            "stock_amount": 20,
+            "url1": "../assets/images/json-url/4/honda-civic-carbon-fiber-side-mirror-1.jpg",
+            "url2": "../assets/images/json-url/4/honda-civic-carbon-fiber-side-mirror-2.jpg"
+          },
+          {
+            "p_id": 55,
+            "name": "Универсальное переднее парковочное зеркало заднего вида для слепых зон",
+            "description": "Импортное.Высококачественное пластиковое зеркало на крыло для Toyota Fortuner, Toyota Prado, Land Cruiser, Vigo.",
+            "price": 2000,
+            "stock_amount": 30,
+            "url1": "../assets/images/json-url/4/universal-front-mirror-1.jpg",
+            "url2": "../assets/images/json-url/4/universal-front-mirror-2.jpg"
+          },
+          {
+            "p_id": 56,
+            "name": "Индикатор зеркала Honda City",
+            "description": "Импортированный. Индикатор зеркала Honda City 2009-2020 - 34350-TM0-H01",
+            "price": 1600,
+            "stock_amount": 40,
+            "url1": "../assets/images/json-url/4/mirror-indicator-light-honda-city-1.jpg",
+            "url2": "../assets/images/json-url/4/mirror-indicator-light-honda-city-2.jpg"
+          }
+        ]
+      },
+      {
+        "c_id": 3,
+        "name": "Дворники",
+        "description": "Разнообразие щеток стеклоочистителей для разных моделей автомобилей.",
+        "url": "../assets/images/json-url/4/wiper-blades-1.jpg",
+        "category": "parts",
+        "products": [
+          {
+            "p_id": 57,
+            "name": "Силиконовые щетки стеклоочистителя Maximus Premium – 15 дюймов",
+            "description": "Силиконовые щетки стеклоочистителя Maximus Premium — 15 дюймов. Изготовлены из высококачественной силиконовой резины.",
+            "price": 1200,
+            "stock_amount": 16,
+            "url1": "../assets/images/json-url/4/wiper-blades-1.jpg",
+            "url2": "../assets/images/json-url/4/wiper-blades–2.jpg"
+          },
+          {
+            "p_id": 58,
+            "name": "Силиконовые щетки стеклоочистителя Maximus Premium – 18 дюймов.",
+            "description": "Силиконовые щетки стеклоочистителей Maximus Premium – 18 дюймов. Изготовлен из высококачественного силиконового каучука.",
+            "price": 1400,
+            "stock_amount": 35,
+            "url1": "../assets/images/json-url/4/wiper-blades-1.jpg",
+            "url2": "../assets/images/json-url/4/wiper-blades-2.jpg"
+          },
+          {
+            "p_id": 59,
+            "name": "Силиконовые щетки стеклоочистителя Maximus Premium – 19 дюймов",
+            "description": "Силиконовые щетки стеклоочистителей Maximus Premium – 19 дюймов. Изготовлен из высококачественного силиконового каучука.",
+            "price": 1600,
+            "stock_amount": 20,
+            "url1": "../assets/images/json-url/4/wiper-blades-1.jpg",
+            "url2": "../assets/images/json-url/4/wiper-blades-2.jpg"
+          },
+          {
+            "p_id": 60,
+            "name": "Силиконовые щетки стеклоочистителя Maximus Premium – 20 дюймов",
+            "description": "Силиконовые щетки стеклоочистителей Maximus Premium – 20 дюймов. Изготовлен из высококачественного силиконового каучука.",
+            "price": 1800,
+            "stock_amount": 10,
+            "url1": "../assets/images/json-url/4/wiper-blades-1.jpg",
+            "url2": "../assets/images/json-url/4/wiper-blades-2.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]
